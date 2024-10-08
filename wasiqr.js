@@ -69,12 +69,13 @@ ______________________________________
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Repository:* _https://github.com/254100934193/Yobih-Bug-Bot
+║❒ *Youtube:* _https://youtube.com/@mungaibrian-o9x?si=_2f4ab5Au88YAssV
 ║❒ *Owner:* _https://wa.me/254743436105_
 ║❒ *Repo:* _https://github.com/254100934193/Yobih-Bug-Bot_
 ║❒ *WaGroup:* _https://whatsapp.com/channel/0029Vajp1HY4o7qSc0kE9o1g_
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vajp1HY4o7qSc0kE9o1g_
-║❒ *Plugins:* _https://github.com/254100934193/Yobih-Bug-Bot 
+║❒ *Plugins:* _https://github.com/254100934193/Yobih-Bug-Bot
+
 ╚════════════════════════╝
 _____________________________________
 	
